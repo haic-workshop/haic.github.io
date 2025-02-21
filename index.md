@@ -9,7 +9,7 @@ layout: home
 
 Hi there! Here's the lazy grad student's template for workshop webpages. I put this together to help automate mundane tasks with conventional workshop webpages - curating lists of speakers and/or organizers, schedules, and submitted/accepted papers. Here's a completely unrelated picture adapted from "Machine Learning & Artificial Intelligence" by `mikemacmarketing`; licensed under CC BY 2.0:
 
-![](assets/img/banner.jpg)
+![](assets/img/banner-gemini.png)
 
 The theme is quite easy to use if you're familiar with Jekyll. The following collections are implemented:
 1. **Speakers**: Curate a [speaker list like this one](speakers) from a set of markdown files, one per speaker. Crops and displays images if available. Adds a short bio. See files in the `_speakers` directory for examples.
