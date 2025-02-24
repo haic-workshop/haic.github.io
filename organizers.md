@@ -1,8 +1,4 @@
----
-layout: organizers
-title: Organizers
-permalink: /organizers/
----
+
 
 - **Michele Braccini** – University of Bologna, Italy  
   E-mail: [m.braccini@unibo.it](mailto:m.braccini@unibo.it)
