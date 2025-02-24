@@ -8,6 +8,8 @@ layout: home
 ---
 
 ![](assets/img/banner2-gemini.jpg)
+<p style="text-align: right; font-size: small;">*AI-generated image by Google Gemini.</p>
+
 
 ## Workshop Aim
 
