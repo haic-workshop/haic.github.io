@@ -5,7 +5,7 @@ permalink: /organizers/
 ---
 
 
-- **Michele Braccini** – University of Bologna, Italy  
+- **Michele Braccini**  **<ins>(main contact)</ins>** – University of Bologna, Italy  
   E-mail: [m.braccini@unibo.it](mailto:m.braccini@unibo.it)
 
 - **Allegra De Filippo** – University of Bologna, Italy  
