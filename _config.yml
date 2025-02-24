@@ -20,10 +20,10 @@
 
 title: HAIC Workshop
 email: m.braccini@unibo.it
-description: |
-  <a href="https://ecai2025.org" target="_blank">co-located with ECAI 2025</a> 
-  28TH EUROPEAN CONFERENCE ON ARTIFICIAL INTELLIGENCE 
-  Bologna (ITALY), 25-30 October 2025
+#description: |
+#  <a href="https://ecai2025.org" target="_blank">co-located with ECAI 2025</a> 
+#  28TH EUROPEAN CONFERENCE ON ARTIFICIAL INTELLIGENCE 
+#  Bologna (ITALY), 25-30 October 2025
 url: https://haic.github.io # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: rethinkmlpapers
 github_username:  rethinkmlpapers
