@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 permalink: /
-title: HAIC Workshop
+title: Human-AI Collaborative Systems - Workshop
 layout: home
 ---
 
