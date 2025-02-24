@@ -20,7 +20,10 @@
 
 title: HAIC Workshop
 email: m.braccini@unibo.it
-#description: >-
+description: >
+  <a href="https://ecai2025.org/" target="_blank">co-located with ECAI 2025</a></br>
+  28TH EUROPEAN CONFERENCE ON ARTIFICIAL INTELLIGENCE</br>
+  Bologna (ITALY), 25-30 October 2025
 baseurl:  # the subpath of your site, e.g. /blog
 url: https://haic.github.io # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: rethinkmlpapers
@@ -48,10 +51,10 @@ header_pages:
 # masthead_description: Adapted from Machine Learning & Artificial Intelligence by mikemacmarketing; licensed under CC BY 2.0
 
 # A two-line attribution (remove this if you have to, but we'd appreciate if you leave this as is)
-attribution: >
-  <a href="https://ecai2025.org/" target="_blank">co-located with ECAI 2025</a></br>
-  28TH EUROPEAN CONFERENCE ON ARTIFICIAL INTELLIGENCE</br>
-  Bologna (ITALY), 25-30 October 2025
+#attribution: >
+#  <a href="https://ecai2025.org/" target="_blank">co-located with ECAI 2025</a></br>
+#  28TH EUROPEAN CONFERENCE ON ARTIFICIAL INTELLIGENCE</br>
+#  Bologna (ITALY), 25-30 October 2025
 # Displays a "last updated" date in the footer if set to "true"
 last_updated: true
 
