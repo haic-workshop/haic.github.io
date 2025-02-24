@@ -5,6 +5,14 @@
 
     <div class="footer-col-wrapper">
       <div class="footer-col">
+        <!-- <p>{{ site.description | escape }}</p> -->
+        <p>{{ site.description }}</p>
+        <p>{{ site.attribution }}</p>
+        {% if site.last_updated %}
+        Last updated: {{ "now" | date: '%B %d, %Y' }}.
+        {% endif %}
+      </div>
+      <div class="footer-col">
         <p class="feed-subscribe">
           <a href="{{ 'feed.xml' | relative_url }}">
             <svg class="svg-icon orange">
@@ -23,14 +31,7 @@
         </ul>
       {%- endif %}
       </div>
-      <div class="footer-col">
-        <!-- <p>{{ site.description | escape }}</p> -->
-        <p>{{ site.description }}</p>
-        <p>{{ site.attribution }}</p>
-        {% if site.last_updated %}
-        Last updated: {{ "now" | date: '%B %d, %Y' }}.
-        {% endif %}
-      </div>
+      
     </div>
 
     <div class="social-links">
