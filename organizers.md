@@ -1,3 +1,8 @@
+---
+layout: organizers
+title: Organizers
+permalink: /organizers/
+---
 
 
 - **Michele Braccini** – University of Bologna, Italy  
