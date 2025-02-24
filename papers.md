@@ -1,5 +1,7 @@
 ---
-layout: papers
+layout: Accepted Papers
 title: Papers
-permalink: /papers/
 ---
+
+- paper 1
+- paper 2
