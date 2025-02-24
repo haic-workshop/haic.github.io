@@ -24,7 +24,8 @@
       {%- endif %}
       </div>
       <div class="footer-col">
-        <p>{{ site.description | escape }}</p>
+        <!-- <p>{{ site.description | escape }}</p> -->
+        <p>{{ site.description }}</p>
         <p>{{ site.attribution }}</p>
         {% if site.last_updated %}
         Last updated: {{ "now" | date: '%B %d, %Y' }}.
