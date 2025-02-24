@@ -1,6 +1,6 @@
 ---
-layout: Accepted Papers
-title: Papers
+layout: papers
+title: Accepted Papers
 ---
 
 - paper 1
