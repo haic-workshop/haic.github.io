@@ -4,7 +4,6 @@ title: Call for papers
 permalink: /callforpapers/
 ---
 
-# Call for Papers
 We encourage the submission of original contributions that explore innovative methodologies for building Human-AI collaborative systems.
 
 In particular, authors can submit:
@@ -23,12 +22,12 @@ In particular, authors can submit:
 -  Collaborative decision-making systems
 
 All submitted papers will be evaluated by at least two members of the program committee, based on originality, significance, relevance and technical quality. Submissions of full research papers must be in English, in PDF format in the CEUR-WS conference format that you can download as offline version from [http://ceur-ws.org/Vol-XXX/CEURART.zip](https://duckduckgo.comhttp://ceur-ws.org/Vol-XXX/CEURART.zip) or at [this link](https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/wqyfdgftmcfw) if an Overleaf template is preferred.
-Submissions should be single blinded, i.e. authors names should be included in the submissions. Submissions must be made through the EasyChair conference system prior the specified deadline (all deadlines refer to GMT) by selecting CREAI as submission track. Discussion papers are extended abstracts that present your favourite recent application work (published elsewhere), position, or open problems with clear and concise formulations of current challenges. At least one of the authors should register and take part at the conference to make the presentation.
+Submissions should be single blinded, i.e. authors names should be included in the submissions. Submissions must be made through the EasyChair conference system prior the specified deadline (all deadlines refer to GMT) by selecting HAIC as submission track. Discussion papers are extended abstracts that present your favourite recent application work (published elsewhere), position, or open problems with clear and concise formulations of current challenges. At least one of the authors should register and take part at the conference to make the presentation.
 
 **Important Dates**
 - Paper submission deadline: To Be Announced
 - Notification to authors: To Be Announced
-- Deadline for ECAI-2024 Transfer: To Be Announced
+- Deadline for ECAI-2025 Transfer: To Be Announced
 - Camera-Ready submission: To Be Announced
 
 **Proceedings and Post Proceedings**
