@@ -25,10 +25,10 @@ All submitted papers will be evaluated by at least two members of the program co
 Submissions should be single blinded, i.e. authors names should be included in the submissions. Submissions must be made through the EasyChair conference system prior the specified deadline (all deadlines refer to GMT) by selecting HAIC as submission track. Discussion papers are extended abstracts that present your favourite recent application work (published elsewhere), position, or open problems with clear and concise formulations of current challenges. At least one of the authors should register and take part at the conference to make the presentation.
 
 **Important Dates**
-- Paper submission deadline: To Be Announced
-- Notification to authors: To Be Announced
+- Paper submission deadline: **June 15th, 2025**
+- Notification to authors: **July 21st, 2025**
 - Deadline for ECAI-2025 Transfer: To Be Announced
-- Camera-Ready submission: To Be Announced
+- Camera-Ready submission: **September 1st, 2025**
 
 **Proceedings and Post Proceedings**
 
