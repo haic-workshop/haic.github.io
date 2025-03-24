@@ -9,7 +9,8 @@ We encourage the submission of original contributions that explore innovative me
 In particular, authors can submit:
 <ol type="a">
   <li> <b>Regular papers</b> (max. 12 + references – CEUR.ws format);</li>
-  <li> <b>Short/Position/Discussion papers</b> (max 8 pages + references - CEUR.ws format);</li>
+  <li> <b>Short/Position papers</b> (max 8 pages + references - CEUR.ws format);</li>
+  <li> <b>Discussion papers of recent works published elsewhere</b> (max 8 pages + references - CEUR.ws format).</li>
 </ol>
 
 
