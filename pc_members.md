@@ -7,7 +7,7 @@ title: Program Committee
 - **Matteo Magnini** (University of Bologna)  
 - **Francesco Rusin** (University of Trieste)  
 - **Angelo Croatti** (Azienda USL della Romagna)  
-- **Giorgio Franceschelli** (Alma Mater Studiorum Università di Bologna)  
+- **Giorgio Franceschelli** (University of Bologna)  
 - **Cataldo Musto** (University of Bari)  
 - **Joseph Giovanelli** (University of Bologna)  
 - **Paolo Baldini** (University of Bologna)  
@@ -20,7 +20,7 @@ title: Program Committee
 - **Jennifer Renoux** (Örebro Universitet)  
 - **Riccardo De Benedictis** (CNR - National Research Council of Italy)  
 - **Yuri Gardinazzi** (University of Trieste)  
-- **Gianluca Aguzzi** (Alma Mater Studiorum - Università di Bologna)  
+- **Gianluca Aguzzi** (University of Bologna)  
 - **Imke van Heerden** (King's College London)  
 - **Giuseppe Spillo** (University of Bari)
 - ...
