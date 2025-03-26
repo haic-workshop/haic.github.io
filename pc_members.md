@@ -23,4 +23,5 @@ title: Program Committee
 - **Gianluca Aguzzi** (University of Bologna)  
 - **Imke van Heerden** (King's College London)  
 - **Giuseppe Spillo** (University of Bari)
+- **Angelo Quarta** (University of Bologna) 
 - ...
