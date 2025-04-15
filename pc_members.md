@@ -26,4 +26,4 @@ title: Program Committee
 - **Giuseppe Spillo** (University of Bari)
 - **Angelo Quarta** (University of Bologna)
 - **Pasquale Cascarano** (University of Bologna)
-- ...
+- **Lorenzo Stacchio** (Università degli studi di Macerata)
