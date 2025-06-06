@@ -15,7 +15,6 @@ title: Program Committee
 - **Antonio Pietro Ugo Fleres** (University of Messina)  
 - **Sara Montagna** (Università degli Studi di Urbino Carlo Bo)  
 - **Salvatore Anzalone** (Université Paris 8)  
-- **Andrea Roli** (University of Bologna)  
 - **Roberto Gatta** (Università Cattolica S. Cuore)  
 - **Jennifer Renoux** (Örebro Universitet)
 - **Samuele Burattini** (University of Bologna)
@@ -27,3 +26,4 @@ title: Program Committee
 - **Angelo Quarta** (University of Bologna)
 - **Pasquale Cascarano** (University of Bologna)
 - **Lorenzo Stacchio** (Università degli studi di Macerata)
+- **Sanyam Jain** (Aarhus University)
