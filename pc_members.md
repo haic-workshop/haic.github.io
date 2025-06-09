@@ -27,3 +27,4 @@ title: Program Committee
 - **Pasquale Cascarano** (University of Bologna)
 - **Lorenzo Stacchio** (Università degli studi di Macerata)
 - **Sanyam Jain** (Aarhus University)
+- **Ilaria Tiddi** (Vrije Universiteit Amsterdam)
