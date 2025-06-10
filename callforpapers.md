@@ -4,6 +4,14 @@ title: Call for papers
 permalink: /callforpapers/
 ---
 
+
+***********************************************************
+<p align="center">
+<mark><b>EXTENDED PAPER SUBMISSION DEADLINE: June 22nd, 2025</b></mark>
+</p>
+
+***********************************************************
+
 We encourage the submission of original contributions that explore innovative methodologies for building Human-AI collaborative systems.
 
 In particular, authors can submit:
@@ -26,7 +34,7 @@ All submitted papers will be evaluated by at least two members of the program co
 Submissions should be single blinded, i.e. authors names should be included in the submissions. Submissions must be made through the EasyChair conference system (<https://easychair.org/conferences/?conf=haic2025>) prior the specified deadline (all deadlines refer to GMT). Discussion papers are extended abstracts that present your favourite recent application work (published elsewhere), position, or open problems with clear and concise formulations of current challenges. At least one of the authors should register and take part at the conference to make the presentation.
 
 **Important Dates**
-- Paper submission deadline: **June 15th, 2025**
+- Paper submission deadline: ~~June 15th, 2025~~ <mark><b>June 22nd, 2025 (EXTENDED)</b></mark>  (11:59PM UTC-12)
 - Notification to authors: **July 21st, 2025**
 - Camera-Ready submission: **September 1st, 2025**
 
