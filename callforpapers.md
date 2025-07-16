@@ -35,7 +35,7 @@ Submissions should be single blinded, i.e. authors names should be included in t
 
 **Important Dates**
 - Paper submission deadline: ~~June 15th, 2025~~ <mark><b>June 22nd, 2025 (EXTENDED)</b></mark>  (11:59PM UTC-12)
-- Notification to authors: **July 21st, 2025**
+- Notification to authors: ~~July 21st, 2025~~ <mark><b>July 28th, 2025</b></mark>  
 - Camera-Ready submission: **September 1st, 2025**
 
 <!--- - Deadline for ECAI-2025 Transfer: To Be Announced -->
