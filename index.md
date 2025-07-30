@@ -7,6 +7,14 @@ title: Home
 layout: home
 ---
 
+
+***********************************************************
+<p align="center">
+<mark><b>The workshop is scheduled for the morning of 25 October 2025 as a half-day event</b></mark>
+</p>
+
+***********************************************************
+
 ![](assets/img/banner2-gemini.jpg)
 <p style="text-align: right; font-size: small;">*AI-generated image by Google Gemini.</p>
 
