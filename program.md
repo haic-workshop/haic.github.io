@@ -23,6 +23,33 @@ title: Workshop Program
 | 11:40 – 12:20  | **Session 3 – Human-AI Co-Creation** |
 | 12:20 – 12:30  | Closing Remarks                     |
 
+
+---
+## 🎤 Invited Talk
+
+### Invited Speakers
+
+- **Patrizia Fattori**  
+  *Full Professor, Department of Biomedical and Neuromotor Sciences, University of Bologna*
+
+- **Annalisa Bosco**  
+  *Associate Professor, Department of Biomedical and Neuromotor Sciences, University of Bologna*
+
+---
+
+**Talk Title:**  
+<h1>The Perception–Action Loop: a Framework for Anticipating Human Intentions</h1>
+
+
+**Abstract:**  
+Perception and action are deeply interwoven processes that shape how humans interact with their environment. Increasing evidence highlights that action planning can influence perceptual processing, suggesting a continuous bidirectional exchange between motor intentions and sensory input. Differences in perception can emerge even before movement begins, and actions such as reaching or grasping can subsequently alter the way objects are experienced. At the neural level, these dynamics are thought to rely on perception–action interfaces supported by the parieto-frontal network. Understanding how action modulates perception not only provides insights into fundamental brain mechanisms but also offers promising avenues for designing human–AI collaborative systems that can better anticipate and adapt to human intentions.
+
+**Bio:**  
+**Patrizia Fattori** ...
+
+**Annalisa Bosco** is an Associate Professor at the Department of Biomedical and Neuromotor Sciences, University of Bologna, specializing in neurophysiology. She earned her Master’s degree in Pharmacy from the University of Bologna in 2006 and completed her PhD in Neurophysiology in 2010, focusing on reaching movements in 3D space. Since 2005, she has maintained a continuous trajectory of research, evolving from postdoctoral and junior research roles to her current position as Associate Professor. She is also Principal Investigator of several national and international research projects that bridge neurophysiology with artificial intelligence, fostering interdisciplinary approaches to human–machine interaction. Her research is centered on the neural control of visuomotor responses, explored at two complementary levels. At the neural level, she has contributed to characterizing the functional properties of the cortical area V6A in the superior parietal lobule, investigating how visual information is employed in encoding reach and grasp movements and the coordinate systems underpinning their planning and execution. At the behavioral level, she has explored the interaction between perception and action across both oculomotor and skeletomotor systems, including mechanisms guiding reaching movements in three-dimensional space.
+
+
 ---
 
 ## Session Details
