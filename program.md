@@ -74,9 +74,6 @@ Perception and action are deeply interwoven processes that shape how humans inte
 ### Session 2 – *Human-AI Decision Support Systems*  
 🕒 11:00 – 11:40  
 
-- **Cognitive Resilience and Human-AI Teaming in Air Traffic Control: Toward a New Systemic Paradigm**  
-  *Silvia Torsi*  
-
 - **Process Over Skill: Validating Kasparov’s Law Through Human–AI Collaboration in Clinical Diagnosis**  
   *Alessia Papale, Gloria Lopiano, Andrea Campagner and Federico Cabitza*  
 
@@ -85,6 +82,9 @@ Perception and action are deeply interwoven processes that shape how humans inte
 
 - **Scalable and Explainable Diet Recommendations via Answer Set Programming**  
   *Alina Vozna, Andrea Monaldini, Stefania Costantini and Valentina Pitoni*
+
+- **Cognitive Resilience and Human-AI Teaming in Air Traffic Control: Toward a New Systemic Paradigm**  
+  *Silvia Torsi*  
 
 ---
 
