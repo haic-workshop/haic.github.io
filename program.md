@@ -84,7 +84,7 @@ Perception and action are deeply interwoven processes that shape how humans inte
   *Alina Vozna, Andrea Monaldini, Stefania Costantini and Valentina Pitoni*
 
 - **Cognitive Resilience and Human-AI Teaming in Air Traffic Control: Toward a New Systemic Paradigm**  
-  *Silvia Torsi*  
+  *Silvia Torsi, Stefano Bonelli, Anna Giulia Vicario, Alfonso Levantesi, Hossein Mapar*
 
 ---
 
