@@ -4,7 +4,7 @@ title: Workshop Program
 ---
 
 
-# HAIC 2025 – \**Tentative\** Workshop Program  
+# HAIC 2025 – Workshop Program  
 **First International Workshop on Human-AI Collaborative Systems**  
 📅 Date: 25 October 2025 (morning)  
 📍 Location: **Aula 3.3** Plesso Ingegneria, Viale del Risorgimento, 2, Bologna (Italy)
@@ -58,6 +58,9 @@ Perception and action are deeply interwoven processes that shape how humans inte
 ## Session Details
 
 ### Session 1 – *Foundations for Next-Generation Human-AI Systems*  
+*Session chair: __Michele Braccini__*
+
+
 🕒 09:50 – 10:30  
 
 - **First the action has to be perceived for communication to take place**  
@@ -72,6 +75,8 @@ Perception and action are deeply interwoven processes that shape how humans inte
 ---
 
 ### Session 2 – *Human-AI Decision Support Systems*  
+*Session chair: __Paolo Baldini__*
+
 🕒 11:00 – 11:40  
 
 - **Process Over Skill: Validating Kasparov’s Law Through Human–AI Collaboration in Clinical Diagnosis**  
@@ -89,6 +94,8 @@ Perception and action are deeply interwoven processes that shape how humans inte
 ---
 
 ### Session 3 – *Human-AI Co-Creation*  
+*Session chair: __Allegra De Filippo__*
+
 🕒 11:40 – 12:20  
 
 - **A Large Reconstruction Model Driven Approach to Support Humans in Digitization of Dance Visual Material into 3D environments**  
