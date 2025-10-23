@@ -17,10 +17,10 @@ title: Workshop Program
 |----------------|-------------------------------------|
 | 09:00 – 09:10  | Opening Remarks                     |
 | 09:10 – 09:50  | **Keynote Talk**                 |
-| 09:50 – 10:30  | **Session 1 – Foundations for Next-Generation Human-AI Systems** |
+| 09:50 – 10:30  | **Session 1 – Foundations for Next-Generation Human-AI Systems**<br><small>Session Chair: Michele Braccini</small>|
 | 10:30 – 11:00  | ☕ Coffee Break                     |
-| 11:00 – 11:40  | **Session 2 – Human-AI Decision Support Systems** |
-| 11:40 – 12:20  | **Session 3 – Human-AI Co-Creation** |
+| 11:00 – 11:40  | **Session 2 – Human-AI Decision Support Systems**<br><small>Session Chair: Paolo Baldini</small>|
+| 11:40 – 12:20  | **Session 3 – Human-AI Co-Creation**<br><small>Session Chair: Allegra De Filippo</small>|
 | 12:20 – 12:30  | Closing Remarks                     |
 
 
