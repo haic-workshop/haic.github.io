@@ -79,7 +79,7 @@ Perception and action are deeply interwoven processes that shape how humans inte
 
 🕒 11:00 – 11:40  
 
-- **Process Over Skill: Validating Kasparov’s Law Through Human–AI Collaboration in Clinical Diagnosis**  
+- **Validating Kasparov’s Law Through Human–AI Collaboration in Clinical Diagnosis**  
   *Alessia Papale, Gloria Lopiano, Andrea Campagner and Federico Cabitza*  
 
 - **Towards Collaborative Planning for Health Promotion through Person-Tailored Storytelling and Argumentation**  
