@@ -7,7 +7,7 @@ title: Workshop Program
 # HAIC 2025 – Workshop Program  
 **First International Workshop on Human-AI Collaborative Systems**  
 📅 Date: 25 October 2025 (morning)  
-📍 Location: **Aula 3.3** Plesso Ingegneria, Viale del Risorgimento, 2, Bologna (Italy)
+📍 Location: **Aula 0.6** Plesso Ingegneria, Viale del Risorgimento, 2, Bologna (Italy)
 
 ---
 
